@@ -1,2 +1,2 @@
-# multigames
-Some classic mini games currently in development for fun
+# ShaprChess
+Uncomplete chess i was doing while learning c#
